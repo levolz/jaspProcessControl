@@ -49,3 +49,5 @@ Form
 			allowedColumns:						["nominal", "nominalText", "ordinal", "scale"]
 		}
 	}
+	
+}

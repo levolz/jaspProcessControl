@@ -15,6 +15,6 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-designOfExperiments <- function(jaspResults, dataset, options, ...){
+doeCreateScreening <- function(jaspResults, dataset, options, ...){
 
 }
